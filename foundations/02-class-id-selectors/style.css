@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.odd-numbers {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    width: 50vw;
+}
+
+#second-element {
+    color: cyan;
+    font-size: 36px;
+
+}
+
+#odd-numbers-id {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+    width: 50vw
+}
